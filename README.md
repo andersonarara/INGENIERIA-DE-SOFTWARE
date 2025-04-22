@@ -1,2 +1,3 @@
-git checkout -b master
+git checkout -b develop 
+
 
